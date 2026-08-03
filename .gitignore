@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# editors
+*.swp
+*~
+
+# nRF Connect SDK / Zephyr build output
+build/
+build_*/
